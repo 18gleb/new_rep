@@ -7,3 +7,6 @@ def func(a):
 
 def func1(x):
     return x ** 2
+
+
+print('a')
